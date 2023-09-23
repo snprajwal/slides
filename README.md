@@ -4,10 +4,18 @@ This repository contains the slides for my talks. They are all hosted on my webs
 
 ## Checkpoint and Restore in Kubernetes with CRIU - .meetup/kubernetes, 20 Jan 2023
 
+<a href="https://www.youtube.com/watch?v=JEcLoJjH3Ls" target="_blank">
+  <img src="https://img.youtube.com/vi/JEcLoJjH3Ls/maxresdefault.jpg" />
+</a>
+
 - The talk is present on [YouTube](https://www.youtube.com/watch?v=JEcLoJjH3Ls)
 - The slides can be viewed [here](https://snprajwal.com/slides/dot-meetup-k8s-2023)
 
 ## Container checkpoints with Go and CRIU - GopherCon India, 9 Sep 2023
+
+<a href="https://www.youtube.com/watch?v=UGQgcIz9xGc" target="_blank">
+  <img src="https://img.youtube.com/vi/UGQgcIz9xGc/maxresdefault.jpg" />
+</a>
 
 - The talk is present on [YouTube](https://www.youtube.com/watch?v=UGQgcIz9xGc)
 - The slides can be viewed [here](https://snprajwal.com/slides/gophercon-india-2023)
